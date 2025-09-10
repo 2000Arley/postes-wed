@@ -220,11 +220,11 @@
   <!-- Galería de proyectos -->
   <section id="galeria">
     <h2>Nuestros Proyectos</h2>
-    <div class="gallery">
-      <img src="images/proyecto1.jpeg" alt="Proyecto reforestación y limpieza">
-      <img src="images/proyecto2.jpeg" alt="Obras civiles y construcción">
-      <img src="images/proyecto3.jpeg" alt="Postes de concreto instalados en campo">
-    </div>
+    <img src="proyecto1.jpeg" alt="Proyecto reforestación y limpieza">
+    <img src="proyecto2.jpeg" alt="Obras civiles y construcción">
+    <img src="proyecto3.jpeg" alt="Postes de concreto instalados en campo">
+
+    
   </section>
 
   <!-- Footer -->
@@ -262,3 +262,4 @@
   </script>
 </body>
 </html>
+
